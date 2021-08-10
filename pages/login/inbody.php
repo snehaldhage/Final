@@ -1,0 +1,1 @@
+<?php echo 'You are visiting login page'; ?>
